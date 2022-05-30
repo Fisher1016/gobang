@@ -1,0 +1,37 @@
+﻿  main.hpp
+C:\Users\Lizaozao\Desktop\五子棋\main.hpp(267,8): warning C4101: “j”: 未引用的局部变量
+C:\Users\Lizaozao\Desktop\五子棋\main.hpp(894,6): warning C4101: “temp_x”: 未引用的局部变量
+C:\Users\Lizaozao\Desktop\五子棋\main.hpp(894,13): warning C4101: “temp_y”: 未引用的局部变量
+C:\Users\Lizaozao\Desktop\五子棋\main.hpp(924,8): warning C4101: “j”: 未引用的局部变量
+C:\Users\Lizaozao\Desktop\五子棋\main.hpp(924,6): warning C4101: “i”: 未引用的局部变量
+  五子棋.cpp
+C:\Users\Lizaozao\Desktop\五子棋\main.hpp(267,8): warning C4101: “j”: 未引用的局部变量
+C:\Users\Lizaozao\Desktop\五子棋\main.hpp(894,6): warning C4101: “temp_x”: 未引用的局部变量
+C:\Users\Lizaozao\Desktop\五子棋\main.hpp(894,13): warning C4101: “temp_y”: 未引用的局部变量
+C:\Users\Lizaozao\Desktop\五子棋\main.hpp(924,8): warning C4101: “j”: 未引用的局部变量
+C:\Users\Lizaozao\Desktop\五子棋\main.hpp(924,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\Lizaozao\Desktop\五子棋\五子棋.cpp(38,46): warning C4302: “类型强制转换”: 从“const char *”到“WORD”截断
+C:\Users\Lizaozao\Desktop\五子棋\五子棋.cpp(95,18): warning C4101: “rect”: 未引用的局部变量
+  正在生成代码...
+C:\Users\Lizaozao\Desktop\五子棋\main.hpp(696): warning C4715: “Evaluation::Direct”: 不是所有的控件路径都返回值
+C:\Users\Lizaozao\Desktop\五子棋\main.hpp(696): warning C4715: “Evaluation::Direct”: 不是所有的控件路径都返回值
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+五子棋.obj : warning LNK4006: "public: __thiscall Broad::Broad(void)" (??0Broad@@QAE@XZ) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "public: __thiscall GoBang_Game::GoBang_Game(void)" (??0GoBang_Game@@QAE@XZ) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "public: __thiscall Search_Engine::Search_Engine(void)" (??0Search_Engine@@QAE@XZ) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "public: __thiscall GoBang_Game::~GoBang_Game(void)" (??1GoBang_Game@@QAE@XZ) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "private: void __thiscall Evaluation::Advanced_Evaluate(class Broad &)" (?Advanced_Evaluate@Evaluation@@AAEXAAVBroad@@@Z) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "private: void __thiscall Evaluation::Basic_Evaluate(class Broad &)" (?Basic_Evaluate@Evaluation@@AAEXAAVBroad@@@Z) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "public: void __thiscall Evaluation::Change_State(int,int,class Broad &)" (?Change_State@Evaluation@@QAEXHHAAVBroad@@@Z) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "public: void __thiscall GoBang_Game::Clear(void)" (?Clear@GoBang_Game@@QAEXXZ) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "public: int __thiscall Search_Engine::DFSearch(class Broad,int,int,int)" (?DFSearch@Search_Engine@@QAEHVBroad@@HHH@Z) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "private: int __thiscall Evaluation::Direct(int,int,int,int,int,class Broad &)" (?Direct@Evaluation@@AAEHHHHHHAAVBroad@@@Z) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "public: void __thiscall GoBang_Game::Get_Good_Place(int &,int &)" (?Get_Good_Place@GoBang_Game@@QAEXAAH0@Z) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "public: int __thiscall Evaluation::Get_Value(int,class Broad &,int)" (?Get_Value@Evaluation@@QAEHHAAVBroad@@H@Z) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "public: int __thiscall Broad::Is_Over(int,int)" (?Is_Over@Broad@@QAEHHH@Z) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "public: void __thiscall Broad::MakeMove(int,int,int)" (?MakeMove@Broad@@QAEXHHH@Z) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "public: void __thiscall GoBang_Game::Record(int,int,int)" (?Record@GoBang_Game@@QAEXHHH@Z) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "public: void __thiscall GoBang_Game::Turn_To_Computer(int &,int &)" (?Turn_To_Computer@GoBang_Game@@QAEXAAH0@Z) 已在 main.obj 中定义；已忽略第二个定义
+五子棋.obj : warning LNK4006: "public: void __thiscall Broad::UnMakeMove(int,int)" (?UnMakeMove@Broad@@QAEXHH@Z) 已在 main.obj 中定义；已忽略第二个定义
+C:\Users\Lizaozao\Desktop\五子棋\Debug\五子棋.exe : warning LNK4088: 因 /FORCE 选项生成了映像；映像可能不能运行
+  五子棋.vcxproj -> C:\Users\Lizaozao\Desktop\五子棋\Debug\五子棋.exe

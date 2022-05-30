@@ -1,0 +1,2 @@
+C:\Users\Lizaozao\Desktop\五子棋\Debug\五子棋.exe
+C:\Users\Lizaozao\Desktop\五子棋\Debug\五子棋.pdb
